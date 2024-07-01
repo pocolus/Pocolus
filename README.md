@@ -30,5 +30,30 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
  
  ![EXCEL](https://github.com/pocolus/Pocolus/blob/main/%60Imagenes/1.jpg)
 
+**2. TABLEAU**
 
+![TABLEAU](https://github.com/pocolus/Pocolus/blob/main/%60Imagenes/2.png)
+
+**3. POWER BI**
+
+![POWER BI](https://github.com/pocolus/Pocolus/blob/main/%60Imagenes/3.jpg)
+
+**4. SQL**
+
+![SQL](https://github.com/pocolus/Pocolus/blob/main/%60Imagenes/4.png)
+
+
+## HABILIDADES BLANDAS ☮️ 😄
+
+``*`` Comunicación
+
+``*`` Gestión del Tiempo
+
+``*`` Ética y Profesionalismo
+
+``*`` Creatividad
+
+``*`` Pensamiento Crítico
+
+``*`` Manejo del Estrés
 
