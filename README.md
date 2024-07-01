@@ -26,5 +26,8 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
  ## HABILIDADES PRINCIPALES 💻
 
+ **1. EXCEL**
+ ![https://github.com/pocolus/Pocolus/blob/main/%60Imagenes/1.jpg]
+
 
 
