@@ -70,12 +70,15 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 ## CONTACTO 📫
 
 📧 Email: Pocolus@gmail.com
+
 📱 Phone: +57 3015062048
-⬆️ LinkedIn: ![Alexander Garcia](https://www.linkedin.com/in/alex-garcia-a27aa0281/)
+
+⬆️ LinkedIn: ![Alexander Garcia](https://www.linkedin.com/in/alex-garcia-a27aa0281/) 
+
 ⬆️ Portfolio:
 
 Muchas gracias por tu atencion!!!
-Cualquier inquietud o algo que necesites no dudes en contactarme, Estoy aqui para crecer y trabajar juntos!!!
+Cualquier inquietud no dudes en contactarme, Estoy aqui para que podamos crecer y trabajar juntos!!!
 
 
 
