@@ -57,7 +57,7 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ``*`` Manejo del Estrés
 
-📓 ## RESUMEN 
+## RESUMEN 📓
 
 ``*`` Español
 
@@ -67,9 +67,15 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ![english](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/ingles%20(1).pdf)
 
-📫## CONTACTO 
+## CONTACTO 📫
 
 📧 Email: Pocolus@gmail.com
+📱 Phone: +57 3015062048
+⬆️ LinkedIn: ![Alexander Garcia](https://www.linkedin.com/in/alex-garcia-a27aa0281/)
+⬆️ Portfolio:
+
+Muchas gracias por tu atencion!!!
+Cualquier inquietud o algo que necesites no dudes en contactarme, Estoy aqui para crecer y trabajar juntos!!!
 
 
 
