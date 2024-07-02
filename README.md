@@ -57,13 +57,20 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ``*`` Manejo del Estrés
 
-## RESUMEN 📓
+📓 ## RESUMEN 
 
 ``*`` Español
 
-![spa](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/Alexander-Hoja%20de%20Vida.pdf)
+![Spanish](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/Alexander-Hoja%20de%20Vida.pdf)
 
 ``*`` Ingles
 
-![eng](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/ingles%20(1).pdf)
+![english](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/ingles%20(1).pdf)
+
+📫## CONTACTO 
+
+📧 Email: Pocolus@gmail.com
+
+
+
 
