@@ -73,11 +73,12 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 📱 Phone: +57 3015062048
 
-⬆️ LinkedIn: ![Alexander Garcia](https://www.linkedin.com/in/alex-garcia-a27aa0281/) 
+⬆️ LinkedIn: https://www.linkedin.com/in/alex-garcia-a27aa0281/
 
 ⬆️ Portfolio:
 
 Muchas gracias por tu atencion!!!
+
 Cualquier inquietud no dudes en contactarme, Estoy aqui para que podamos crecer y trabajar juntos!!!
 
 
