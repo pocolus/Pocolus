@@ -60,8 +60,19 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ## PROYECTOS - PORTFOLIO
 
-1. [📊Herramienta utilizada: Excel](https://github.com/pocolus/Portfolio-Excel01)
+1. [📊Herramienta utilizada: Excel1](https://github.com/pocolus/Portfolio-Excel01)
 
+2. [📈Herramienta utilizada: Excel2](https://github.com/pocolus/Portfolio-Excel02)
+
+3. [📚Herramienta utilizada: Tableau1](https://github.com/pocolus/Portfolio-Tableu01)
+
+4. [🖥️Herramienta utilizada: PowerBi1](https://github.com/pocolus/Portfolio-PowerBi01)
+
+5. [🖥Herramienta utilizada: Sql1](https://github.com/pocolus/Portfolio-SQL01)
+
+6. [🛠Herramienta utilizada: Sql2](https://github.com/pocolus/Portfolio-SQL02)
+
+7. [💡Herramienta utilizada: Sql3](https://github.com/pocolus/Portfolio-SQL03)
 
 
 ## RESUMEN 📓
