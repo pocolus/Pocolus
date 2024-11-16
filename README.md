@@ -93,7 +93,7 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ⬆️ LinkedIn: https://www.linkedin.com/in/alex-garcia-a27aa0281/
 
-⬆️ Portfolio: https://www.canva.com/design/DAGJX8qQ-jA/Q9iMd_eEZ_7YlchFwhIC3w/edit?utm_content=DAGJX8qQ-jA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[⬆️Portfolio] (https://www.canva.com/design/DAGKBx5XyMI/9g6CRmNJh0fXKYcevswZHg/view utm_content=DAGKBx5XyMI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd69e1ff7c1)
 
 Muchas gracias por tu atencion!!!
 
