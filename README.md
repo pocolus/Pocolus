@@ -57,15 +57,22 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 ``*`` Manejo del Estrés
 
+
+## PROYECTOS - PORTFOLIO
+
+1. [📊Herramienta utilizada: Excel](https://github.com/pocolus/Portfolio-Excel01)
+
+
+
 ## RESUMEN 📓
 
 ``*`` Español
 
-![Spanish](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/Alexander-Hoja%20de%20Vida.pdf)
+[Spanish](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/Alexander-Hoja%20de%20Vida.pdf)
 
 ``*`` Ingles
 
-![english](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/ingles%20(1).pdf)
+[english](https://github.com/pocolus/Pocolus/blob/main/%60Resumen/ingles%20(1).pdf)
 
 ## CONTACTO 📫
 
