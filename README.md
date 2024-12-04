@@ -74,6 +74,8 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 7. [💡Herramienta utilizada: Sql3](https://github.com/pocolus/Portfolio-SQL03)
 
+8. [🖥Herramienta utilizada: Sql4](https://github.com/pocolus/Portfolio-SQL04)
+
 
 ## RESUMEN 📓
 
