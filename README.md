@@ -68,13 +68,15 @@ El análisis de datos también satisface mi curiosidad innata y mi deseo de ser 
 
 4. [🖥️Herramienta utilizada: PowerBi1](https://github.com/pocolus/Portfolio-PowerBi01)
 
-5. [🖥Herramienta utilizada: Sql1](https://github.com/pocolus/Portfolio-SQL01)
+5. [📊Herramienta utilizada: PowerBi2](https://github.com/pocolus/Portfolio-PowerBi02)
 
-6. [🛠Herramienta utilizada: Sql2](https://github.com/pocolus/Portfolio-SQL02)
+6. [🖥Herramienta utilizada: Sql1](https://github.com/pocolus/Portfolio-SQL01)
 
-7. [💡Herramienta utilizada: Sql3](https://github.com/pocolus/Portfolio-SQL03)
+7. [🛠Herramienta utilizada: Sql2](https://github.com/pocolus/Portfolio-SQL02)
 
-8. [🖥Herramienta utilizada: Sql4](https://github.com/pocolus/Portfolio-SQL04)
+8. [💡Herramienta utilizada: Sql3](https://github.com/pocolus/Portfolio-SQL03)
+
+9. [🖥Herramienta utilizada: Sql4](https://github.com/pocolus/Portfolio-SQL04)
 
 
 ## RESUMEN 📓
